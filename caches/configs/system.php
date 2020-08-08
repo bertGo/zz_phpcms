@@ -21,13 +21,13 @@ return array(
 
 //附件相关配置
 'upload_path' => PHPCMS_PATH.'uploadfile/',
-'upload_url' => 'http://localhost:22022/uploadfile/', //附件路径
+'upload_url' => 'http://zhongzhu.dev.jnhouse.com/uploadfile/', //附件路径
 'attachment_stat' => '1',//是否记录附件使用状态 0 统计 1 统计， 注意: 本功能会加重服务器负担
 
-'js_path' => 'http://localhost:22022/statics/js/', //CDN JS
-'css_path' => 'http://localhost:22022/statics/css/', //CDN CSS
-'img_path' => 'http://localhost:22022/statics/images/', //CDN img
-'app_path' => 'http://localhost:22022/',//动态域名配置地址
+'js_path' => 'http://zhongzhu.dev.jnhouse.com/statics/js/', //CDN JS
+'css_path' => 'http://zhongzhu.dev.jnhouse.com/statics/css/', //CDN CSS
+'img_path' => 'http://zhongzhu.dev.jnhouse.com/statics/images/', //CDN img
+'app_path' => 'http://zhongzhu.dev.jnhouse.com/',//动态域名配置地址
 
 'charset' => 'utf-8', //网站字符集
 'timezone' => 'Etc/GMT-8', //网站时区（只对php 5.1以上版本有效），Etc/GMT-8 实际表示的是 GMT+8
@@ -44,7 +44,7 @@ return array(
 
 'phpsso' => '1',	//是否使用phpsso
 'phpsso_appid' => '1',	//应用id	
-'phpsso_api_url' => 'http://localhost:22022/phpsso_server',	//接口地址
+'phpsso_api_url' => 'http://zhongzhu.dev.jnhouse.com/phpsso_server',	//接口地址
 'phpsso_auth_key' => 'GyZABcRTziexUHb29zVgODGi804zuKng', //加密密钥
 'phpsso_version' => '1', //phpsso版本
 
