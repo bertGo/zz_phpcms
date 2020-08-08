@@ -213,6 +213,7 @@ class index extends admin {
 		$sysinfo['mysqlv'] = $this->db->version();
 		$show_header = $show_pc_hash = 1;
 		/*检测框架目录可写性*/
+        //todo
 		$pc_writeable = is_writable(PC_PATH.'base.php');
 		$common_cache = getcache('common','commons');
 		$logsize_warning = errorlog_size() > $common_cache['errorlog_size'] ? '1' : '0';

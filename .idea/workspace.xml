@@ -29,7 +29,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fcI6IX7wPnfguQvfJFnugAd8jW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/statics/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,6 +64,7 @@
       <workItem from="1596779268187" duration="133000" />
       <workItem from="1596779827757" duration="441000" />
       <workItem from="1596780408135" duration="18859000" />
+      <workItem from="1596875597764" duration="1806000" />
     </task>
     <servers />
   </component>
@@ -87,9 +88,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="322" width="440" height="547" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596787855022" />
-    <state x="750" y="300" width="598" height="594" key="find.popup" timestamp="1596866273366">
+    <state x="750" y="300" width="598" height="616" key="find.popup" timestamp="1596876794600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="750" y="300" width="598" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596866273366" />
+    <state x="750" y="300" width="598" height="616" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596876794600" />
   </component>
 </project>
